@@ -1,6 +1,6 @@
 const FADE_START = 32;       // seconds (measured on intro's own clock)
 const FADE_DURATION = 0.4;   // seconds
-const HOLD_DURATION = 0.5;     // seconds to hold on intro's first frame before playing
+const HOLD_DURATION = 0.0;     // seconds to hold on intro's first frame before playing
 const LOOP_LEAD_TIME = 0.5;  // seconds — how long before the fade the loop
                               // starts playing (kept short so it has less
                               // time to drift out of sync before it's shown)
